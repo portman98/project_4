@@ -2,6 +2,5 @@
 
 - some
 - cool
-- text
 - to
 - edit
